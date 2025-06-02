@@ -1,10 +1,10 @@
-# 🧠 My Voice Assistant (Offline, Private)
+# My Voice Assistant (Offline, Private)
 
 A fully offline voice assistant using:
 
 - 🎤 [Whisper.cpp](https://github.com/ggerganov/whisper.cpp) — Speech to Text  
-- 🧠 [LLaMA.cpp](https://github.com/ggerganov/llama.cpp) — Language Model (e.g. DeepSeek)  
-- 💾 Optional [mem0](https://github.com/mem0ai/mem0) — Persistent memory  
+-  [LLaMA.cpp](https://github.com/ggerganov/llama.cpp) — Language Model (e.g. DeepSeek)  
+-  Optional [mem0](https://github.com/mem0ai/mem0) — Persistent memory  
 
 ---
 
@@ -17,7 +17,7 @@ A fully offline voice assistant using:
 
 ---
 
-## 🚀 Run
+## Run
 
 ```bash
 python3 assistant.py
@@ -35,12 +35,13 @@ python3 assistant.py
 ---
 
 ## 📸 Screenshot
+<img width="1470" alt="Screenshot 2025-06-02 at 12 29 14 AM" src="https://github.com/user-attachments/assets/54a8b865-0d5e-4f7d-b111-69226123f8be" />
 
 ![demo](./examples/demo.png)
 
 ---
 
-## 🧠 Coming Soon
+## Coming Soon
 
 - Text-to-Speech replies
 - Electron GUI
