@@ -36,6 +36,7 @@ python3 assistant.py
 
 ## 📸 Screenshot
 <img width="1470" alt="Screenshot 2025-06-02 at 12 29 14 AM" src="https://github.com/user-attachments/assets/54a8b865-0d5e-4f7d-b111-69226123f8be" />
+<img width="800" alt="Screenshot 2025-06-02 at 12 40 07 AM" src="https://github.com/user-attachments/assets/a117e1d1-8a4d-421c-a0ed-0f710b9e1d8a" />
 
 ![demo](./examples/demo.png)
 
